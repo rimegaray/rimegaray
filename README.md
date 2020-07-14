@@ -2,8 +2,6 @@ Hola a todos, Soy Juan Rime 👋
 
 Soy docente de Computación e informática.
 
-Actualmente me dedico al desarrollo de Software Empresarial.
-
 🔭 Me encuentro desarrollando una API para la automatización de envio de notificaciones.
 
 🌱 Estoy aprendiendo sobre Python, Inteligencia Artificial y Machine Learning
